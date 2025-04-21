@@ -5,7 +5,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# 환경변수에서 키를 읽어오거나, 직접 입력해도 됩니다.
 MODELS = [
     # "gpt-4-0613",
     "gpt-4.1-2025-04-14",
